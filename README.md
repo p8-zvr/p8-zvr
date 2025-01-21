@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Pete 👋
+
+Data Analyst 
+
+https://t.me/ptzvr
 
 <!--
 **pete8686/pete8686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
